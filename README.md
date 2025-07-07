@@ -1,6 +1,6 @@
 # Alert_system-Pipeline
 
-🔁 Your Alert Pipeline: End-to-End Flow
+🔁  Alert Pipeline: End-to-End Flow
 
      ┌────────────┐
      │   Client   │ ← You (sending test alerts)
